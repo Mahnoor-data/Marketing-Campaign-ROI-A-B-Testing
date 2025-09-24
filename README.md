@@ -75,7 +75,7 @@ https://github.com/user-attachments/assets/5a65ac4b-7ea3-40d6-9af4-1c9541584390
 ## 📂 Repository Structure  
 ```bash
 Marketing-Campaign-ROI-A-B-Testing/
-│── data/               # Cleaned
-│── notebooks/          # Jupyter notebooks ( A/B testing)
+│── data/               # Dataset
+│── pyfile/          # python file ( A/B testing)
 │── dashboards/         # Power BI files 
 │── README.md           # Documentation
